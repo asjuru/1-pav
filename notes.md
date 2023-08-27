@@ -18,11 +18,16 @@ font-family: Arial;
 font-size: 20px;
 font-weight: bold;
 text-style: italic;
+
+Text decoration: none             default pabraukimus ir kt nuima
+
 margin: 100px;                  atstumas tarp elementu - visomis kryptimis
 margin-top: 100px;
 margin-right: 100px;
 margin-bottom: 100px;
 margin-left: 100px;
+margin: 0                       nebelieka tarpu tarp elementu
+
 padding: 100px;                 elementu issiputimas (nuo elemento krastu iki jo turinio) - visomis kryptimis
 padding-top: 100px;
 padding-right: 100px;
